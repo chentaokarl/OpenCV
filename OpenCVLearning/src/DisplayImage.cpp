@@ -12,7 +12,7 @@
 #include <opencv2/highgui.hpp>
 #include <iostream>
 #include <vector>
-#include <string>
+
 #include <stdio.h>
 
 using namespace cv;
